@@ -2,6 +2,6 @@
 
 There are some mxGraph usage examples.
 
-- [Hello world](./hellowWorld)
-- [Hierarchical Layout](./hierarchicalLayout)
-- [Toolbar](./graph)
+- [Hello world](./src/hellowWorld)
+- [Hierarchical Layout](./src/hierarchicalLayout)
+- [Toolbar](./src/graph)
